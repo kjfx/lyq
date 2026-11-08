@@ -30,16 +30,16 @@ GT-BE98_PRO [点击下载>>](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen
 - ARM V8 64位版：[点击下载>>](https://github.com/aews/lyq/releases/download/huashuo/MC2_0.3_ARM64.tar.gz) ，[新版>>](https://github.cmliussss.net/https://github.com/aews/lyq/releases/download/huashuo/MC2_0.4.6_ARM64.tar.gz)<br/>
     支持<br/>
     --BE6500<br/>
-    --BE88U/BE86U/BE96U/BE3600<br/>
+    --BE88U/BE86U/BE96U<br/>
     --AC86U/GT5300<br/>
     --AX68U/AX86U/AX88U/AX92U/AX11000<br/>
     --AX11000 pro/AX86U pro/AX88U pro/GT-AX6000<br/>
-    --TX-AX6000/TUF-AX4200q/GS7<br/>
+    --TX-AX6000/TUF-AX4200q/TUF-AX4200/GS7/GS7 air<br/>
     --RAX80等
 
 - ARM V7 32位版：[点击下载>>](https://github.com/aews/lyq/releases/download/huashuo/MC2_0.3_ARM32.tar.gz) ，[新版>>](https://github.cmliussss.net/https://github.com/aews/lyq/releases/download/huashuo/MC2_0.4.6_ARM32.tar.gz)<br/>
     支持<br/>
-    --BD4<br/>
+    --BD4/BE3600/GS7 pro<br/>
     --AX3000/AX5400/AX6600/GT6<br/>
     --AX82U/AX56U/AX58U/AX1800<br/>
     --AX89X<br/>

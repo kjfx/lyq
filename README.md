@@ -9,16 +9,16 @@
 ### 二、刷入梅林固件
 梅林固件下载地址（全部固件）：[点击下载>>](https://fw.koolcenter.com/)<br/>
 - 以下是部分型号固件下载地址：<br/>
-RT-AX86U_PRO [点击下载>>](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_388/RT-AX86U_PRO/?C=M&O=D)<br/>
-RT-AX86U [点击下载>>](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_388/RT-AX86U/?C=M&O=D)<br/>
-RT-AX88U_PRO [点击下载>>](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_388/RT-AX88U_PRO/?C=M&O=D)<br/>
-RT-AX68U [点击下载>>](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_388/RT-AX68U/?C=M&O=D)<br/>
-TUF-AX3000 [点击下载>>](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_388/TUF-AX3000/?C=M&O=D)<br/>
-TUF-AX3000_V2 [点击下载>>](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_388/TUF-AX3000_V2/?C=M&O=D)<br/>
-TUF-AX5400 [点击下载>>](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_388/TUF-AX5400/?C=M&O=D)<br/>
-RT-BE86U [点击下载>>](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_102/RT-BE86U/?C=M&O=D)<br/>
+RT-AX86U_PRO [点击下载>>](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_102/RT-AX86U_PRO/)<br/>
+RT-AX86U [点击下载>>](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_388/RT-AX86U/)<br/>
+RT-AX88U_PRO [点击下载>>](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_102/RT-AX88U_PRO/)<br/>
+RT-AX68U [点击下载>>](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_388/RT-AX68U/)<br/>
+TUF-AX3000 [点击下载>>](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_388/TUF-AX3000/)<br/>
+TUF-AX3000_V2 [点击下载>>](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_388/TUF-AX3000_V2/)<br/>
+TUF-AX5400 [点击下载>>](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_388/TUF-AX5400/)<br/>
+RT-BE86U [点击下载>>](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_102/RT-BE86U/)<br/>
 RT-BE88U [点击下载>>](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_102/RT-BE88U/)<br/>
-RT-BE96U [点击下载>>](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_102/RT-BE96U/?C=M&O=D)<br/>
+RT-BE96U [点击下载>>](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_102/RT-BE96U/)<br/>
 GT-BE98_PRO [点击下载>>](https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_102/GT-BE98_PRO/)<br/>
 *以上只是部分型号的固件，其它型号固件，请查看上面第一个链接全部固件。
 
